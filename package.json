@@ -1,0 +1,24 @@
+{
+  "name": "comp_229_week_2",
+  "version": "1.0.0",
+  "description": "Week_2",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vimal-1996/Comp_229_Week_2.git"
+  },
+  "author": "Vimal Jose Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vimal-1996/Comp_229_Week_2/issues"
+  },
+  "homepage": "https://github.com/Vimal-1996/Comp_229_Week_2#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
